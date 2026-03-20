@@ -1,2 +1,2 @@
-# hydrogen.exe-by-LeoLezury
+# hydrogen.exe by LeoLezury
 One of the most popular GDI malware.
